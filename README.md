@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 - 🧑‍💻 **Ex Full Stack Developer Intern** at **Truelink.ai (Trueinception Pvt. Ltd.)**
 - 🌱 I’m constantly learning new technologies and improving my existing skills
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, MongoDB, Next.js, Tailwind CSS**
-- 📫 Reach me at: [yd102@gmail.com]  
+- 📫 Reach me at: [yd00102@gmail.com]  
 - 📄 [[Resume](https://docs.google.com/document/d/1O6TiyoY3atdC-dUlbPw1PjrValSIRae9d4cCOb7qsz0/edit)](#) (Add your link here)
 
 ---
