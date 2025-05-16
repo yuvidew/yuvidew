@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 - 🧑‍💻 **Ex Full Stack Developer Intern** at **Truelink.ai (Trueinception Pvt. Ltd.)**
 - 🌱 I’m constantly learning new technologies and improving my existing skills
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js, MongoDB, Next.js, Tailwind CSS**
+- 💬 Ask me about **Next js, React js, JavaScript, TypeScript, Node.js, MongoDB, Tailwind CSS, MUI**
 - 📫 Reach me at: [yd00102@gmail.com]  
 - 📄 [[Resume](https://docs.google.com/document/d/1O6TiyoY3atdC-dUlbPw1PjrValSIRae9d4cCOb7qsz0/edit)]
 
@@ -24,10 +24,10 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 - Node.js, Express.js, Firebase, REST APIs, GraphQL (basics)
 
 **Database:**
-- MongoDB, Mongoose, Firebase Firestore
+- MongoDB, Mongoose, Convex.dev
 
 **Tools & Platforms:**
-- Git & GitHub, Vercel, Netlify, Postman, VS Code, Linux
+- Git & GitHub, Vercel, VS Code
 
 ---
 
@@ -60,7 +60,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvidew&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
