@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yuvraj dewangan!
+# 👋 Hi there, I'm Yuvraj dewangan
 
 I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I love building modern, responsive, and user-friendly web applications that solve real-world problems. I’m currently open to new opportunities and collaborations!
 
