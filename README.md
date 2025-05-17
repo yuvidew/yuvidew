@@ -21,10 +21,13 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 - Tailwind CSS, Shadcn UI, HTML5, CSS3
 
 **Backend:**
-- Node.js, Express.js, Firebase, REST APIs, GraphQL (basics)
+- Node.js, Express.js, REST APIs,
 
 **Database:**
 - MongoDB, Mongoose, Convex.dev
+
+**Authentication Tool:**
+- Clerk
 
 **Tools & Platforms:**
 - Git & GitHub, Vercel, VS Code
