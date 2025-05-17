@@ -33,6 +33,18 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 
 ## 📌 Featured Projects
 
+### 🚀 SynapseAI – Autonomous research agent powered by LLM + RAG.
+> Autonomous Research: Powered by LLM + RAG for contextual insights and data-driven decision-making.
+
+- Frontend: Built with **Next.js, Tailwind CSS, and Shadcn UI** for a modern, responsive interface.
+- Backend & Auth: Data storage via **Convex.dev** with secure user authentication using **Clerk**.
+- AI Integration: Utilizes **SDK.Vercel.ai** and **Google Gemini AI** to generate research or search **summaries, bullet points, and reports**.
+- Real-time sync and collaboration
+
+[[Live Demo](https://synapse-ai-virid.vercel.app/)](#) | [[Source Code](https://github.com/yuvidew/SynapseAI)](#)
+
+---
+
 ### 🧠 AI.Notion – Notion-Style AI Workspace
 > An intelligent, all-in-one workspace for notes, docs, and content generation.
 
@@ -61,7 +73,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvidew&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvidew&layout=compact&theme=radical)
 
 ---
 
