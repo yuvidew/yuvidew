@@ -1,14 +1,15 @@
 # 👋 Hi there, I'm Yuvraj dewangan
 
-I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). I love building modern, responsive, and user-friendly web applications that solve real-world problems. I’m currently open to new opportunities and collaborations!
+I'm a passionate **Software Developer** specializing in the (React js , Next js , Tailwind css , Tupescript , javascript, Express.js,  Node.js, and MySQL). I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences. 
 
 ---
 
 ## 💼 About Me
 
+- 🧑‍💻 **Software Developer Intern** at **River House Technology**
 - 🧑‍💻 **Ex Full Stack Developer Intern** at **Truelink.ai (Trueinception Pvt. Ltd.)**
 - 🌱 I’m constantly learning new technologies and improving my existing skills
-- 💬 Ask me about **Next js, React js, JavaScript, TypeScript, Node.js, MongoDB, Tailwind CSS, Shadcn-UI , Clerk , and Convex.dev**
+- 💬 Ask me about **Next js, React js, React native, Tailwind CSS, Shadcn-UI,  JavaScript, TypeScript, Node.js, MongoDB, MySQL, Clerk , and Convex.dev**
 - 📫 Reach me at: [yd00102@gmail.com]  
 - 📄 [[Resume](https://docs.google.com/document/d/1O6TiyoY3atdC-dUlbPw1PjrValSIRae9d4cCOb7qsz0/edit)]
 
@@ -24,7 +25,7 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN stack** (Mo
 - Node.js, Express.js, REST APIs,
 
 **Database:**
-- MongoDB, Mongoose, Convex.dev
+- MongoDB, Mongoose, MySQL, Convex.dev
 
 **Authentication Tool:**
 - Clerk
