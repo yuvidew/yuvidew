@@ -21,6 +21,9 @@ I'm a passionate **Software Developer** specializing in the (React js , Next js 
 - React.js, Next.js, TypeScript, JavaScript
 - Tailwind CSS, Shadcn UI, HTML5, CSS3
 
+**Mobile:**
+- React Native (basic apps)
+
 **Backend:**
 - Node.js, Express.js, REST APIs,
 
