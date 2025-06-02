@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** specializing in the (React js , Next js 
 - 🧑‍💻 **Software Developer Intern** at **River House Technology**
 - 🧑‍💻 **Ex Full Stack Developer Intern** at **Truelink.ai (Trueinception Pvt. Ltd.)**
 - 🌱 I’m constantly learning new technologies and improving my existing skills
-- 💬 Ask me about **Next js, React js, React native, Tailwind CSS, Shadcn-UI,  JavaScript, TypeScript, Node.js, MongoDB, MySQL, Clerk , and Convex.dev**
+- 💬 Ask me about **Next js, React js, React native (basic apps like Blog App, Estate App), Tailwind CSS, Shadcn-UI,  JavaScript, TypeScript, Node.js, MongoDB, MySQL, Clerk , and Convex.dev**
 - 📫 Reach me at: [yd00102@gmail.com]  
 - 📄 [[Resume](https://docs.google.com/document/d/1O6TiyoY3atdC-dUlbPw1PjrValSIRae9d4cCOb7qsz0/edit)]
 
