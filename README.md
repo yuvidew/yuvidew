@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Yuvraj dewangan
 
-I'm a passionate **Software Developer** specializing in the (React js, Next js, Tailwind css, Shadcn UI, Typescript, Javascript, Express.js, Node.js, MongoDB, Mongose, and MySQL). I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences. 
+I'm a passionate **Software Developer** specializing in the (React js, Next js, React native, Tailwind css, Shadcn UI, Typescript, Javascript, Express.js, Node.js, MongoDB, Mongose, and MySQL). I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences. 
 
 ---
 
