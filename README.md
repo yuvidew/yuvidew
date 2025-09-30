@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I'm **Yuvraj Dewangan**<br><br>
-I'm a passionate **Software Developer** specializing in **React.js, Next.js, React Native, Tailwind CSS, Shadcn UI, TypeScript, JavaScript, Express.js, Node.js, MongoDB, Mongoose, and MySQL**. I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences.<br><br>---
+I'm a passionate **Software Developer** specializing in **React.js, Next.js, React Native, Tailwind CSS, Shadcn UI, TypeScript, JavaScript, Express.js, Node.js, Hono.js, MongoDB, Mongoose, and MySQL**. I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences.<br><br>---
 
 ## 💼 About Me
 - 🧑‍💻 **Software Developer Intern** at **River House Technology**
@@ -22,10 +22,10 @@ I'm a passionate **Software Developer** specializing in **React.js, Next.js, Rea
 - React Native (basic apps)
 
 **Backend:**
-- Node.js, Express.js, REST APIs
+- Node.js, Express.js, REST APIs, Hono.js
 
 **Database:**
-- MongoDB, Mongoose, MySQL, Convex.dev
+- MongoDB, Mongoose, MySQL, Convex.dev, Appwriter
 
 **Authentication Tool:**
 - Clerk
