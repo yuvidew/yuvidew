@@ -49,15 +49,18 @@ Autonomous Research: Powered by LLM + RAG for contextual insights and data-drive
 
 ---
 
-### 🧠 **AI.Notion** – Notion-Style AI Workspace
-An intelligent, all-in-one workspace for notes, docs, and content generation.
+### 🏠 **Roomify.AI** – AI-Powered Interior Design App
+Transform your room ideas into stunning visuals with AI-driven interior design.
 
-- Built with **Next.js, Tailwind CSS, Shadcn UI, Convex.dev, Clerk**.
-- AI-powered content blocks.
-- Real-time sync and collaboration.
-- Markdown and rich-text editing.
+- Built with **Next.js, TypeScript, Tailwind CSS, Shadcn UI, TanStack Query, Hono.js, Appwrite, Gemini AI**.
+- AI-powered interior design generation.
+- Modern, minimal, and realistic style renderings.
+- Smart prompts for different interior categories.
+- Fast API with Hono.js + Appwrite backend.
+- Seamless AI integration using Gemini AI.
+- Responsive and intuitive UI with Shadcn UI + Tailwind.
 
-[Live Demo](https://ai-notion-phi.vercel.app) | [Source Code](https://github.com/yuvidew/ai.notion)
+[Live Demo](https://roomify-ai-seven.vercel.app/) | [Source Code](https://github.com/yuvidew/roomify.ai)
 
 ---
 
