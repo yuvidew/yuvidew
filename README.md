@@ -37,17 +37,6 @@ I'm a passionate **Software Developer** specializing in **React.js, Next.js, Rea
 
 ## 📌 Featured Projects
 
-### 🚀 **SynapseAI** – Autonomous research agent powered by LLM + RAG
-Autonomous Research: Powered by LLM + RAG for contextual insights and data-driven decision-making.
-
-- **Frontend:** Built with **Next.js, Tailwind CSS, and Shadcn UI** for a modern, responsive interface.
-- **Backend & Auth:** Data storage via **Convex.dev** with secure user authentication using **Clerk**.
-- **AI Integration:** Utilizes **SDK.Vercel.ai** and **Google Gemini AI** to generate research or search **summaries, bullet points, and reports**.
-- Real-time sync and collaboration
-
-[Live Demo](https://synapse-ai-virid.vercel.app/) | [Source Code](https://github.com/yuvidew/SynapseAI)
-
----
 
 ### 🏠 **Roomify.AI** – AI-Powered Interior Design App
 Transform your room ideas into stunning visuals with AI-driven interior design.
@@ -63,6 +52,19 @@ Transform your room ideas into stunning visuals with AI-driven interior design.
 [Live Demo](https://roomify-ai-seven.vercel.app/) | [Source Code](https://github.com/yuvidew/roomify.ai)
 
 ---
+
+### 🚀 **SynapseAI** – Autonomous research agent powered by LLM + RAG
+Autonomous Research: Powered by LLM + RAG for contextual insights and data-driven decision-making.
+
+- **Frontend:** Built with **Next.js, Tailwind CSS, and Shadcn UI** for a modern, responsive interface.
+- **Backend & Auth:** Data storage via **Convex.dev** with secure user authentication using **Clerk**.
+- **AI Integration:** Utilizes **SDK.Vercel.ai** and **Google Gemini AI** to generate research or search **summaries, bullet points, and reports**.
+- Real-time sync and collaboration
+
+[Live Demo](https://synapse-ai-virid.vercel.app/) | [Source Code](https://github.com/yuvidew/SynapseAI)
+
+---
+
 
 ### 📝 **LiveDocs** – Google Docs Clone
 A real-time collaborative document editing platform.
