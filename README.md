@@ -20,10 +20,10 @@ I'm a passionate **Software Developer** specializing in **React.js, Next.js, Rea
 
 **Mobile:**
 - React Native (basic apps)
-- Inngest (serverless workflows & background job processing)
 
 **Backend:**
 - Node.js, Express.js, REST APIs, Hono.js
+- Inngest (serverless workflows & background job processing)
 
 **Database:**
 - MongoDB, Mongoose, MySQL, Convex.dev, Appwriter, Prisma
