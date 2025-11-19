@@ -55,15 +55,18 @@ Transform your room ideas into stunning visuals with AI-driven interior design.
 
 ---
 
-### 🚀 **SynapseAI** – Autonomous research agent powered by LLM + RAG
-Autonomous Research: Powered by LLM + RAG for contextual insights and data-driven decision-making.
+### ⚙️ **NodeBase** – Open-Source Automation Platform (n8n Alternative)
 
-- **Frontend:** Built with **Next.js, Tailwind CSS, and Shadcn UI** for a modern, responsive interface.
-- **Backend & Auth:** Data storage via **Convex.dev** with secure user authentication using **Clerk**.
-- **AI Integration:** Utilizes **SDK.Vercel.ai** and **Google Gemini AI** to generate research or search **summaries, bullet points, and reports**.
-- Real-time sync and collaboration
+A powerful automation platform inspired by **n8n**, designed to build workflows, automate tasks, and integrate services through an intuitive, node-based visual builder.
 
-[Live Demo](https://synapse-ai-virid.vercel.app/) | [Source Code](https://github.com/yuvidew/SynapseAI)
+- **Frontend:** Built with **Next.js, Tailwind CSS, Shadcn UI, and TanStack Query** for a modern, responsive, and smooth user experience.
+- **Workflow Engine:** Utilizes **React Workflow** for drag-and-drop workflow creation and visual node execution.
+- **Database Layer:** Uses **Prisma ORM** with **Neon** as a scalable, serverless PostgreSQL database.
+- **Background Jobs & Automation:** Powered by **Inngest** to handle triggers, scheduled automations, and background tasks reliably.
+- **AI Integration:** Supports **Gemini AI, OpenAI, and Anthropic** for AI-powered automation nodes like text generation, embeddings, summaries, and more.
+- **Extensible Architecture:** Modular node-based system allowing easy integration of APIs, AI models, and custom logic blocks.
+
+[Live Demo](https://nodebase-mauve.vercel.app) | [Source Code](https://github.com/yuvidew/nodebase)
 
 ---
 
