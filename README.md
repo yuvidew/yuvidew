@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** specializing in **React.js, Next.js, Rea
 - Neon (Serverless PostgreSQL Database)
 
 **Authentication Tool:**
-- Clerk
+- Clerk, Better auth
 
 **Tools & Platforms:**
 - Git & GitHub, Vercel, VS Code
