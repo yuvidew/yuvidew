@@ -84,8 +84,8 @@ A real-time collaborative document editing platform.
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuvidew&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuvidew&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvidew&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 
