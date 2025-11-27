@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** specializing in **React.js, Next.js, React Native, Tailwind CSS, Shadcn UI, TypeScript, JavaScript, Express.js, Node.js, Hono.js, MongoDB, Mongoose, and MySQL**. I love building modern, responsive, and user-friendly web applications that solve real-world problems and provide great user experiences.<br><br>---
 
 ## 💼 About Me
-- 🧑‍💻 **Software Developer Intern** at **River House Technology**
+- 🧑‍💻 **Software Developer** at **River House Technology**
 - 🧑‍💻 **Ex Full Stack Developer Intern** at **Truelink.ai (Trueinception Pvt. Ltd.)**
 - 🌱 I’m constantly learning new technologies and improving my existing skills.
 - 💬 Ask me about **Next.js, React.js, React Native (basic apps like Blog App, Estate App), Tailwind CSS, Shadcn-UI, JavaScript, TypeScript, Node.js, MongoDB, MySQL, Clerk, and Convex.dev**.
