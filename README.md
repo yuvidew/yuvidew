@@ -91,6 +91,9 @@ A real-time collaborative document editing platform.
 
 ---
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvidew)](https://github.com/yuvidew/github-readme-stats)
+
 ## 🤝 Let’s Connect
 - [LinkedIn](https://linkedin.com/in/yuvraj-dewangan-435b36269/)
 - [X](https://x.com/Yuvidew108)
